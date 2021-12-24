@@ -13,7 +13,7 @@ Welcome to my profile page! This is an overview of my github activities. You can
 - **`GPT2`** - GPT-2 PyTorch Implementation. [[github](https://github.com/affjljoo3581/GPT2)] [[demo](https://colab.research.google.com/github/affjljoo3581/GPT2/blob/master/GPT2_Interactive_Notebook.ipynb)] [[demo-korean](https://colab.research.google.com/github/affjljoo3581/GPT2/blob/master/korean_gpt2_302M_demo.ipynb)]
 - **`Expanda`** - The universal integrated corpus-building environment. [[github](https://github.com/affjljoo3581/Expanda)] [[docs](https://expanda.readthedocs.io/en/latest/?badge=latest)] [[pypi](https://pypi.org/project/Expanda/)]
 - **`langumo`** - The unified corpus building environment for Language Models. [[github](https://github.com/affjljoo3581/langumo)] [[docs](https://langumo.readthedocs.io/en/latest/?badge=latest)] [[pypi](https://pypi.org/project/langumo/)]
-- **`langumo-ko`** - A collection of **langumo**'s parsers for korean corpus. [[github](https://github.com/affjljoo3581/langumo-ko)] [[pypi](https://pypi.org/project/langumo-ko/)]
+- **`langumo-ko`** - A collection of langumo's parsers for korean corpus. [[github](https://github.com/affjljoo3581/langumo-ko)] [[pypi](https://pypi.org/project/langumo-ko/)]
 - **`canrevan`** - The fast and efficient naver-news crawler. [[github](https://github.com/affjljoo3581/canrevan)] [[pypi](https://pypi.org/project/canrevan/)]
 - **`Differentiable-RandAugment`** - Optimize RandAugment with differentiable operations. [[github](https://github.com/affjljoo3581/Differentiable-RandAugment)] [[pypi](https://pypi.org/project/differentiable-randaugment/)]
 
