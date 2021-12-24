@@ -22,7 +22,7 @@ Welcome to my profile page! This is an overview of my github activities. You can
 
 ### 🏆 Kaggle competitions
 Here is [my kaggle profile page](https://www.kaggle.com/affjljoo3581). You can figure out the detailed informations about my kaggle achievements in the profile page.
-- 🥈 *CommonLit Readability Prize* - **top 1%** (42/3633) [[overview](https://www.kaggle.com/c/commonlitreadabilityprize)] [[github](https://github.com/affjljoo3581/CommonLit-Readability-Prize)]
+- 🥈 *CommonLit Readability Prize* - **top 1% (42/3633)** [[overview](https://www.kaggle.com/c/commonlitreadabilityprize)] [[github](https://github.com/affjljoo3581/CommonLit-Readability-Prize)]
 - 🥈 *Riiid Answer Correctness Prediction* - **top 2% (78/3395)** [[overview](https://www.kaggle.com/c/riiid-test-answer-prediction)] [[github](https://github.com/affjljoo3581/Riiid-Answer-Correctness-Prediction)]
 - 🥈 *Bristol-Myers Squibb – Molecular Translation* - top 5% (50/874) [[overview](https://www.kaggle.com/c/bms-molecular-translation)] [[github](https://github.com/affjljoo3581/BMS-Molecular-Translation)]
 - 🥉 *Quick, Draw! Doodle Recognition Challenge* - top 5% (74/1309) [[overview](https://www.kaggle.com/c/quickdraw-doodle-recognition)]
