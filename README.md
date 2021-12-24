@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:affjljoo3581@gmail.com)](mailto:affjljoo3581@gmail.com)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/affjljoo3581)](https://www.facebook.com/affjljoo3581)
+[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100016653126247)](https://www.facebook.com/profile.php?id=100016653126247)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/affjljoo3581)](https://www.instagram.com/affjljoo3581)
 ![GitHub User's stars](https://img.shields.io/github/stars/affjljoo3581?style=flat-square)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faffjljoo3581%2Faffjljoo3581&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
