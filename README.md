@@ -21,7 +21,7 @@ Welcome to my profile page! This is an overview of my github activities. You can
 - 🤗 Transformers - Change DataCollatorForSeq2Seq to pad labels to a multiple of `pad_to_multiple_of` [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/13949)]
 
 ### 🏆 Kaggle competitions
-Here is [my kaggle profile page](https://www.kaggle.com/affjljoo3581). You can figure out the detailed informations about my kaggle achievements in the profile page.
+Here is [my kaggle profile page](https://www.kaggle.com/affjljoo3581). You can check out the detailed informations about my kaggle achievements in the profile page.
 - 🥈 *CommonLit Readability Prize* - **top 1% (42/3633)** [[overview](https://www.kaggle.com/c/commonlitreadabilityprize)] [[github](https://github.com/affjljoo3581/CommonLit-Readability-Prize)]
 - 🥈 *Riiid Answer Correctness Prediction* - **top 2% (78/3395)** [[overview](https://www.kaggle.com/c/riiid-test-answer-prediction)] [[github](https://github.com/affjljoo3581/Riiid-Answer-Correctness-Prediction)]
 - 🥈 *Bristol-Myers Squibb – Molecular Translation* - top 5% (50/874) [[overview](https://www.kaggle.com/c/bms-molecular-translation)] [[github](https://github.com/affjljoo3581/BMS-Molecular-Translation)]
@@ -29,7 +29,7 @@ Here is [my kaggle profile page](https://www.kaggle.com/affjljoo3581). You can f
 - 🥉 *Humpback Whale Identification* - top 8% (189/2120) [[overview](https://www.kaggle.com/c/humpback-whale-identification)]
 
 ### 🏆 Dacon competitions
-Here is [my dacon profile page](https://dacon.io/myprofile/427699/home). You can figure out the detailed informations about my dacon achievements in the profile page.
+Here is [my dacon profile page](https://dacon.io/myprofile/427699/home). You can check out the detailed informations about my dacon achievements in the profile page.
 - 🥇 *Samsung AI Challenge for Scientific Discovery* - **1st placed (1/220)** [[overview](https://dacon.io/competitions/official/235789/overview/description)] [[github](https://github.com/affjljoo3581/Samsung-AI-Challenge-for-Scientific-Discovery)]
 - 🥇 *AI 기반 회의 녹취록 요약 경진대회* - **1st placed (1/430)** [[overview](https://dacon.io/competitions/official/235813/overview/description)]
 - 🥇 *가스・에너지분야 문서요약 모델개발* - **1st placed (1/161)** [[overview](https://dacon.io/competitions/official/235829/overview/description)]
