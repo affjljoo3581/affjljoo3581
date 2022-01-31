@@ -7,7 +7,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faffjljoo3581%2Faffjljoo3581&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 ![affjljoo3581](https://road-to-kaggle-grandmaster.vercel.app/api/simple/affjljoo3581)
 
-Welcome to my profile page! This is an overview of my github activities. You can see what I did and what I'm going to do.
+Welcome to my profile! This is an overview of my github activities. You can see what I did and what I'm planning to do.
 
 ### ⚒️ My projects & libraries
 - **`GPT2`** - GPT-2 PyTorch Implementation. [[github](https://github.com/affjljoo3581/GPT2)] [[demo](https://colab.research.google.com/github/affjljoo3581/GPT2/blob/master/GPT2_Interactive_Notebook.ipynb)] [[demo-korean](https://colab.research.google.com/github/affjljoo3581/GPT2/blob/master/korean_gpt2_302M_demo.ipynb)]
@@ -21,7 +21,7 @@ Welcome to my profile page! This is an overview of my github activities. You can
 - 🤗 Transformers - Change DataCollatorForSeq2Seq to pad labels to a multiple of `pad_to_multiple_of` [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/13949)]
 
 ### 🏆 Kaggle competitions
-Here is [my kaggle profile page](https://www.kaggle.com/affjljoo3581). Check out my detailed achievements in kaggle.
+Here is [my kaggle profile page](https://www.kaggle.com/affjljoo3581). Check out my detailed achievements on kaggle.
 - 🥈 *CommonLit Readability Prize* - **top 1% (42/3633)** [[overview](https://www.kaggle.com/c/commonlitreadabilityprize)] [[github](https://github.com/affjljoo3581/CommonLit-Readability-Prize)]
 - 🥈 *Riiid Answer Correctness Prediction* - **top 2% (78/3395)** [[overview](https://www.kaggle.com/c/riiid-test-answer-prediction)] [[github](https://github.com/affjljoo3581/Riiid-Answer-Correctness-Prediction)]
 - 🥈 *Bristol-Myers Squibb – Molecular Translation* - top 5% (50/874) [[overview](https://www.kaggle.com/c/bms-molecular-translation)] [[github](https://github.com/affjljoo3581/BMS-Molecular-Translation)]
@@ -29,7 +29,7 @@ Here is [my kaggle profile page](https://www.kaggle.com/affjljoo3581). Check out
 - 🥉 *Humpback Whale Identification* - top 8% (189/2120) [[overview](https://www.kaggle.com/c/humpback-whale-identification)]
 
 ### 🏆 Dacon competitions
-Here is [my dacon profile page](https://dacon.io/myprofile/427699/home). Check out my detailed achievements in dacon.
+Here is [my dacon profile page](https://dacon.io/myprofile/427699/home). Check out my detailed achievements on dacon.
 - 🥇 *Samsung AI Challenge for Scientific Discovery* - **1st placed (1/220)** [[overview](https://dacon.io/competitions/official/235789/overview/description)] [[github](https://github.com/affjljoo3581/Samsung-AI-Challenge-for-Scientific-Discovery)]
 - 🥇 *AI 기반 회의 녹취록 요약 경진대회* - **1st placed (1/430)** [[overview](https://dacon.io/competitions/official/235813/overview/description)]
 - 🥇 *가스・에너지분야 문서요약 모델개발* - **1st placed (1/161)** [[overview](https://dacon.io/competitions/official/235829/overview/description)]
