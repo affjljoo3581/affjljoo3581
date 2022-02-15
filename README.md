@@ -33,6 +33,7 @@ Here is [my dacon profile page](https://dacon.io/myprofile/427699/home). Check o
 - 🥇 *Samsung AI Challenge for Scientific Discovery* - **1st placed (1/220)** [[overview](https://dacon.io/competitions/official/235789/overview/description)] [[github](https://github.com/affjljoo3581/Samsung-AI-Challenge-for-Scientific-Discovery)]
 - 🥇 *AI 기반 회의 녹취록 요약 경진대회* - **1st placed (1/430)** [[overview](https://dacon.io/competitions/official/235813/overview/description)]
 - 🥇 *가스・에너지분야 문서요약 모델개발* - **1st placed (1/161)** [[overview](https://dacon.io/competitions/official/235829/overview/description)]
+- 🥇 *KNOW기반 직업 추천 알고리즘 경진대회* - **1st placed (1/928)** [[overview](https://dacon.io/competitions/official/235865/overview/description)]
 
 ### 💬 Contact
 Please check out the above badges to contact me. You can also open an issue in the corresponding repository or tag me (@affjljoo3581) in issues/prs/commits on GitHub.
