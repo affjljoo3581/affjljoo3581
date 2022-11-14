@@ -26,6 +26,7 @@ Here is [my kaggle profile page](https://www.kaggle.com/affjljoo3581). Check out
 - 🥈 *CommonLit Readability Prize* - **top 1% (42/3633)** [[overview](https://www.kaggle.com/c/commonlitreadabilityprize)] [[github](https://github.com/affjljoo3581/CommonLit-Readability-Prize)]
 - 🥈 *Feedback Prize - Predicting Effective Arguments* - **top 2% (40/1567)** [[overview](https://www.kaggle.com/competitions/feedback-prize-effectiveness/overview)] [[github](https://github.com/affjljoo3581/Feedback-Prize-Effectiveness)]
 - 🥈 *Riiid Answer Correctness Prediction* - **top 2% (78/3395)** [[overview](https://www.kaggle.com/c/riiid-test-answer-prediction)] [[github](https://github.com/affjljoo3581/Riiid-Answer-Correctness-Prediction)]
+- 🥈 *Google AI4Code – Understand Code in Python Notebooks* - **top 3% (39/1135)** [[overview](https://www.kaggle.com/competitions/AI4Code/overview)] [[github](https://github.com/affjljoo3581/Google-AI4Code-Understand-Code-in-Python-Notebooks)]
 - 🥈 *Bristol-Myers Squibb – Molecular Translation* - top 5% (50/874) [[overview](https://www.kaggle.com/c/bms-molecular-translation)] [[github](https://github.com/affjljoo3581/BMS-Molecular-Translation)]
 - 🥉 *Quick, Draw! Doodle Recognition Challenge* - top 5% (74/1309) [[overview](https://www.kaggle.com/c/quickdraw-doodle-recognition)]
 - 🥉 *Humpback Whale Identification* - top 8% (189/2120) [[overview](https://www.kaggle.com/c/humpback-whale-identification)]
