@@ -16,6 +16,9 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 - **`langumo-ko`** - A collection of langumo's parsers for korean corpus. [[github](https://github.com/affjljoo3581/langumo-ko)] [[pypi](https://pypi.org/project/langumo-ko/)]
 - **`canrevan`** - The fast and efficient naver-news crawler. [[github](https://github.com/affjljoo3581/canrevan)] [[pypi](https://pypi.org/project/canrevan/)]
 - **`Differentiable-RandAugment`** - Optimize RandAugment with differentiable operations. [[github](https://github.com/affjljoo3581/Differentiable-RandAugment)] [[pypi](https://pypi.org/project/differentiable-randaugment/)]
+- **`Coverist-AI-Research`** - Generate a bookcover image with DALL-E. [[github](https://github.com/coverist/coverist-ai-research)]
+- **`ALREADYME.md AI`** - Generate README.md with GPT-3 few-shot learning. [[research repo](https://github.com/readme-generator/alreadyme-ai-research)] [[serving repo](https://github.com/readme-generator/alreadyme-ai-serving)]
+- **`Deploy KoGPT with Triton Server`** - A tutorial of deploying large-scale language model with NVIDIA Triton and FasterTransformer. [[github](https://github.com/detail-novelist/novelist-triton-server)]
 
 ### 📝 Contributions
 - 🤗 Transformers - Change DataCollatorForSeq2Seq to pad labels to a multiple of `pad_to_multiple_of` [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/13949)]
