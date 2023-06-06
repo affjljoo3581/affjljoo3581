@@ -22,6 +22,7 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 
 ### 📝 Contributions
 - 🤗 Transformers - Change DataCollatorForSeq2Seq to pad labels to a multiple of `pad_to_multiple_of` [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/13949)]
+- 🤗 Transformers - Pix2Struct: fix wrong broadcast axis of attention mask in visual encoder [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/23976)]
 
 ### 🏆 Kaggle competitions
 Here is [my kaggle profile page](https://www.kaggle.com/affjljoo3581). Check out my detailed achievements on kaggle.
