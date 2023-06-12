@@ -19,6 +19,8 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 - **`Coverist-AI-Research`** - Generate a bookcover image with DALL-E. [[github](https://github.com/coverist/coverist-ai-research)]
 - **`ALREADYME.md AI`** - Generate README.md with GPT-3 few-shot learning. [[research repo](https://github.com/readme-generator/alreadyme-ai-research)] [[serving repo](https://github.com/readme-generator/alreadyme-ai-serving)]
 - **`Deploy KoGPT`** - A tutorial of deploying large-scale language model with NVIDIA Triton and FasterTransformer. [[github](https://github.com/detail-novelist/novelist-triton-server)]
+- **`polyglot-jax-inference`** - A Jax/Flax inference code for GPT-NeoX model on TPU. [[github](https://github.com/affjljoo3581/polyglot-jax-inference)]
+- **`starcode-jax`** - A Jax/Flax inference code for StarCoder model on TPU. [[github](https://github.com/affjljoo3581/starcoder-jax)]
 
 ### 📝 Contributions
 - 🤗 Transformers - Change DataCollatorForSeq2Seq to pad labels to a multiple of `pad_to_multiple_of` [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/13949)]
