@@ -16,6 +16,7 @@ Welcome to my profile! This is an overview of my github activities. You can see 
 - **`langumo-ko`** - A collection of langumo's parsers for korean corpus. [[github](https://github.com/affjljoo3581/langumo-ko)] [[pypi](https://pypi.org/project/langumo-ko/)]
 - **`canrevan`** - The fast and efficient naver-news crawler. [[github](https://github.com/affjljoo3581/canrevan)] [[pypi](https://pypi.org/project/canrevan/)]
 - **`Differentiable-RandAugment`** - Optimize RandAugment with differentiable operations. [[github](https://github.com/affjljoo3581/Differentiable-RandAugment)] [[pypi](https://pypi.org/project/differentiable-randaugment/)]
+- **`Inverse DALL-E`** - Optical Character Recognition with Autoregressive Image Token Generation. [[github](https://github.com/affjljoo3581/Inverse-DALL-E-for-Optical-Character-Recognition)]
 - **`Coverist-AI-Research`** - Generate a bookcover image with DALL-E. [[github](https://github.com/coverist/coverist-ai-research)]
 - **`ALREADYME.md AI`** - Generate README.md with GPT-3 few-shot learning. [[research repo](https://github.com/readme-generator/alreadyme-ai-research)] [[serving repo](https://github.com/readme-generator/alreadyme-ai-serving)]
 - **`Deploy KoGPT`** - A tutorial of deploying large-scale language model with NVIDIA Triton and FasterTransformer. [[github](https://github.com/detail-novelist/novelist-triton-server)]
