@@ -1,4 +1,4 @@
-# Hi there 👋
+### Hi there 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=flat-square)](https://www.linkedin.com/in/jungwoo-park-488713252/)
 [![X](https://img.shields.io/badge/affjljoo3581-black?style=flat-square&logo=X)](https://x.com/affjljoo3581)
@@ -12,7 +12,9 @@ I’m Jungwoo, an AI researcher focusing on LLMs, Pre-Training, and Mechanistic 
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=J8ShYjYAAAAJ&hl=ko)
 
 
-## Projects
+---
+
+### Projects
 
 #### 🧠 Language Models
 - **`GPT2`** - GPT-2 PyTorch Implementation. [[github](https://github.com/affjljoo3581/GPT2)] [[demo](https://colab.research.google.com/github/affjljoo3581/GPT2/blob/master/GPT2_Interactive_Notebook.ipynb)] [[demo-korean](https://colab.research.google.com/github/affjljoo3581/GPT2/blob/master/korean_gpt2_302M_demo.ipynb)]
@@ -34,7 +36,7 @@ I’m Jungwoo, an AI researcher focusing on LLMs, Pre-Training, and Mechanistic 
 - 🤗 Transformers - Change DataCollatorForSeq2Seq to pad labels to a multiple of `pad_to_multiple_of` [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/13949)]
 - 🤗 Transformers - Pix2Struct: fix wrong broadcast axis of attention mask in visual encoder [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/23976)]
 -->
-## Kaggle competitions
+### Kaggle competitions
 - 🎖️ *Google - American Sign Language Fingerspelling Recognition* - Solo **Gold Medal** (5/1315) & **Monetary Prize** [[overview](https://www.kaggle.com/competitions/asl-fingerspelling/overview)] [[github](https://github.com/affjljoo3581/Google-American-Sign-Language-Fingerspelling-Recognition)]
 - 🎖️ *Feedback Prize - Evaluating Student Writing* - Solo **Gold Medal** (4/2060) & **Monetary Prize** [[overview](https://www.kaggle.com/c/feedback-prize-2021/overview)] [[github](https://github.com/affjljoo3581/Feedback-Prize-Competition)]
 
