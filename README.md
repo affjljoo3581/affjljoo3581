@@ -7,7 +7,7 @@
 
 <!--[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faffjljoo3581%2Faffjljoo3581&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)-->
 
-I’m Jungwoo, an AI researcher focusing on LLMs, Pre-Training, and Mechanistic Interpretability.
+I’m Jungwoo, an AI researcher focusing on large language models (LLMs), pre-training, and mechanistic interpretability.
 - 📄 [CV](https://github.com/affjljoo3581/affjljoo3581/blob/main/Jungwoo%20Park%20CV%20-%20Oct.%202025.pdf) (Updated: Oct. 2025)
 - 🎓 [Google Scholar](https://scholar.google.com/citations?user=J8ShYjYAAAAJ&hl=ko)
 
