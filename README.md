@@ -36,9 +36,9 @@ I’m Jungwoo, an AI researcher focusing on LLMs, Pre-Training, and Mechanistic 
 - 🤗 Transformers - Change DataCollatorForSeq2Seq to pad labels to a multiple of `pad_to_multiple_of` [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/13949)]
 - 🤗 Transformers - Pix2Struct: fix wrong broadcast axis of attention mask in visual encoder [[github](https://github.com/huggingface/transformers)] [[pr](https://github.com/huggingface/transformers/pull/23976)]
 -->
-### Kaggle competitions
-- 🎖️ *Google - American Sign Language Fingerspelling Recognition* - Solo **Gold Medal** (5/1315) & **Monetary Prize** [[overview](https://www.kaggle.com/competitions/asl-fingerspelling/overview)] [[github](https://github.com/affjljoo3581/Google-American-Sign-Language-Fingerspelling-Recognition)]
-- 🎖️ *Feedback Prize - Evaluating Student Writing* - Solo **Gold Medal** (4/2060) & **Monetary Prize** [[overview](https://www.kaggle.com/c/feedback-prize-2021/overview)] [[github](https://github.com/affjljoo3581/Feedback-Prize-Competition)]
+### Kaggle Competitions
+- *Google - American Sign Language Fingerspelling Recognition* - Solo **Gold Medal** 🎖️ (5/1315) & **Monetary Prize** [[overview](https://www.kaggle.com/competitions/asl-fingerspelling/overview)] [[github](https://github.com/affjljoo3581/Google-American-Sign-Language-Fingerspelling-Recognition)]
+- *Feedback Prize - Evaluating Student Writing* - Solo **Gold Medal** 🎖️ (4/2060) & **Monetary Prize** [[overview](https://www.kaggle.com/c/feedback-prize-2021/overview)] [[github](https://github.com/affjljoo3581/Feedback-Prize-Competition)]
 
 👉 See my full [Kaggle profile](https://www.kaggle.com/affjljoo3581) for additional results.
 <!--
